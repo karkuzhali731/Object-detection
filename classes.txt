@@ -1,0 +1,20 @@
+dog
+person
+cat
+tv
+car
+Bed
+Lamp
+Chair
+Cylinder
+Dinning table
+Chair1
+Plant
+Fridge
+Sofa
+Washing machine
+Basket
+Drier
+Stool
+Plant1
+Tea table
